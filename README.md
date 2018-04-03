@@ -10,24 +10,29 @@ _______________________________________
 TECH:
 
 C# programming language.
+
 ADO.NET.
 _____________________________
 
 TOOL:
 
 Visual Studio 2015.
+
 SQL Server 2014.
 ________________________________
 
 ENVIRONMENTAL PROGRAMMING:
 
 Windows Environment
+
 .NET Framework
 ____________________________________________
 
 AUTHORS:
 
-Group of authors Vo Quang Nhat – group leader;
+Group of authors :
+
+Vo Quang Nhat – group leader;
 
 Vo Thi Van – developer; 
 
@@ -39,5 +44,5 @@ Tran Thi Soan – desinger.
 See also the list of contributors who participated in this project. License this project created by University of Information Technology’s students and was guided by Nguyen Cong Hoan professor. Anyone cares about this can copy this code.
 
 
-THIS IS PRODUCT BY THE STUDENT OF THE INFORMATION SYSTEM,UNIVERSITY OF INFORMATION TECHNOLOGY.
+THIS IS PRODUCT BY THE STUDENT OF THE INFORMATION SYSTEM, UNIVERSITY OF INFORMATION TECHNOLOGY.
 
