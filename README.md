@@ -50,7 +50,7 @@ Vo Thi Van – developer;
 
 Nguyen Thi Ngoc Thuy - developer;
 
-Tran Thi Soan – desinger.
+Tran Thi Soan – designer.
 
 
 See also the list of contributors who participated in this project. License this project created by University of Information 
