@@ -1,4 +1,4 @@
-
+<img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web.png">
 PRIVATE CLINIC MANAGEMENT SOFTWARE. 
 ___________________________________________________________________
 
