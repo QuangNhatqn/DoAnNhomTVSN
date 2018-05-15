@@ -1,4 +1,10 @@
-<img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web.png">
+<!DOCTYPE html>
+<html>
+<body>
+    <img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web.png">
+   
+</body>
+</ht
 PRIVATE CLINIC MANAGEMENT SOFTWARE. 
 ___________________________________________________________________
 
