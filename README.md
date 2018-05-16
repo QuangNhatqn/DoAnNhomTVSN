@@ -1,11 +1,13 @@
 
-    <img src="https://www.uit.edu.vn/sites/vi/files/images/Logos/Logo_UIT_Web.png">
+   [![N|Solid](https://i.imgur.com/co6SMdm.png)](https://www.uit.edu.vn/)
+   
+   ---
    
 
-#**PRIVATE CLINIC MANAGEMENT SOFTWARE.**
+# PRIVATE CLINIC MANAGEMENT SOFTWARE.
 ___________________________________________________________________
 
-##PROJECT TITLE: 
+## PROJECT TITLE: 
 
 In the field of Health, private clinics are expanding in both quantity and scope.
 Therefore, the management of information related to patients as well as the examination and treatment of private clinics is very
@@ -16,28 +18,28 @@ searching for patient information, checking medical records, diagnosing prescrip
 reports regarding the use of medicine and income of the clinic.
 _______________________________________
 
-##TECH:
+## TECH:
 
 C# programming language.
 
 ADO.NET.
 _____________________________
 
-##TOOL:
+## TOOL:
 
 Visual Studio 2015.
 
 SQL Server 2014.
 ________________________________
 
-##ENVIRONMENTAL PROGRAMMING:
+## ENVIRONMENTAL PROGRAMMING:
 
 Windows Environment
 
 .NET Framework
 ____________________________________________
 
-##AUTHORS:
+## AUTHORS:
 
 Group of authors :
 
@@ -56,5 +58,5 @@ Technology’s students and was guided by Nguyen Cong Hoan professor. Anyone car
 
 
 
-###THIS IS PRODUCT BY THE STUDENT OF THE INFORMATION SYSTEM, UNIVERSITY OF INFORMATION TECHNOLOGY.
+### THIS IS PRODUCT BY THE STUDENT OF THE INFORMATION SYSTEM, UNIVERSITY OF INFORMATION TECHNOLOGY.
 
