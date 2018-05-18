@@ -40,6 +40,7 @@ Windows Environment
 ____________________________________________
 
 ## AUTHORS:
+Guided by Nguyen Cong Hoan professor; (https://www.facebook.com/hoan.nguyen.khan )
 
 Group of authors :
 
