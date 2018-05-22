@@ -1,0 +1,16 @@
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\bin\Debug\DTO.exe.config
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\bin\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\bin\Debug\DTO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\bin\Debug\DTO.exe.config
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\bin\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\bin\Debug\DTO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DTO\obj\Debug\DTO.pdb
