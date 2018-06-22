@@ -36,7 +36,7 @@ ________________________________
 
 Windows Environment
 
-.NET Framework
+.NET Framework version 4.5.2
 ____________________________________________
 
 ## AUTHORS:
