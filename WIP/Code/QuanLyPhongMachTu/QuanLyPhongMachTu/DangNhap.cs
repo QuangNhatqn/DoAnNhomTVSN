@@ -22,24 +22,7 @@ namespace QuanLyPhongMachTu
             InitializeComponent();
         }
 
-        private void DangNhap_Load(object sender, EventArgs e)
-        {
-
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-
-        }
-
-
+      
 
 
         private void flogin_FormClosing(object sender, FormClosingEventArgs e)
@@ -59,15 +42,15 @@ namespace QuanLyPhongMachTu
             string TenDangNhap = this.txb_TenDangNhap.Text;
             string MatKhau = txb_MatKhau.Text;
 
-            if (BACSI_BUS.Instance.LoginBUS(TenDangNhap, MatKhau))
+            if (NHANVIEN_BUS.Instance.LoginBUS(TenDangNhap, MatKhau))
             {
 
-                BACSI bs = BACSI_BUS.Instance.GetAccountByUserName(TenDangNhap);
+                NHANVIEN bs = NHANVIEN_BUS.Instance.GetAccountByUserName(TenDangNhap);
 
                 Form_Chinh f = new Form_Chinh(bs);
                 this.Hide();
                 f.ShowDialog();
-                // this.Show();
+               
             }
             else
             {
@@ -82,6 +65,9 @@ namespace QuanLyPhongMachTu
             Application.Exit();
         }
 
+        private void DangNhap_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }

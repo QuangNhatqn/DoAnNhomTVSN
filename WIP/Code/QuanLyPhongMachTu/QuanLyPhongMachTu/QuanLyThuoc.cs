@@ -19,15 +19,13 @@ namespace QuanLyPhongMachTu
             InitializeComponent();
         }
 
-        private object DataGirdViewRow;
+        //private object DataGirdViewRow;
 
-        private void dgv_Thuoc_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
+       
         private void QuanLyThuoc_Load(object sender, EventArgs e)
         {
+
+
             TaiDuLieuVaoDataGirdView();
         }
 
@@ -36,13 +34,46 @@ namespace QuanLyPhongMachTu
             List<THUOC> dsBN = THUOC_BUS.LoadTHUOC();
 
             dgv_Thuoc.DataSource = dsBN;
+            dgv_Thuoc.Columns[0].HeaderText = "Tên Thuốc";
+            dgv_Thuoc.Columns[1].HeaderText = "Đơn Vị Tính";
+            dgv_Thuoc.Columns[2].HeaderText = "Giá Thuốc";
+            dgv_Thuoc.Columns[3].Visible = false;
+            //dgv_Thuoc.Columns[3].Width = 150;
+            dgv_Thuoc.Columns[1].Width = 150;
+            dgv_Thuoc.Columns[0].Width = 150;
+            dgv_Thuoc.Columns[2].Width = 180;
+            // an cot tinh trang ton tai
 
         }
+
+        bool KiemTraTonTai(THUOC thuoc)
+        {
+            if (THUOC_BUS.KiemTraTonTai(thuoc) == true)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+          
+        }
+
+
         // THEM THUOC
         private void button3_Click(object sender, EventArgs e)
         {
             THUOC bnDTO = new THUOC();
-          
+            if (txb_TenThuoc.Text == null || txb_TenThuoc.Text == "")
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (txb_Gia.Text == null || txb_Gia.Text == "")
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             bnDTO.TenThuoc1 = txb_TenThuoc.Text;
            
             bnDTO.Gia1 =float.Parse( txb_Gia.Text);
@@ -50,49 +81,66 @@ namespace QuanLyPhongMachTu
             cbb_DVT.ValueMember = "DonViTinh1";
 
             bnDTO.DonViTinh1 = cbb_DVT.SelectedItem.ToString();
-            
 
+            bnDTO.TrangThai1 = 1;
             // goi lop nghiep vu BENHNHAN_BUS
-            if (THUOC_BUS.ThemThuoc(bnDTO) == true)
+            if (KiemTraTonTai(bnDTO) == false)
             {
-                TaiDuLieuVaoDataGirdView();
+                if (THUOC_BUS.ThemThuoc(bnDTO) == true)
+                {
+                    TaiDuLieuVaoDataGirdView();
 
-                MessageBox.Show("Thêm thành công!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                // TaiDuLieuVaoDataGirdView();
-                return;
+                    MessageBox.Show("Thêm thành công!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    // TaiDuLieuVaoDataGirdView();
+                    return;
+                }
+                else
+                {
+                    MessageBox.Show("Không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
             }
-            MessageBox.Show("Không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
+            else
+            {
+                MessageBox.Show("Thuốc đã tồn tại!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
         // Đưa dữ liệu lên datagridview
         private void dgv_Thuoc_Click(object sender, EventArgs e)
         {
-            if (dgv_Thuoc.SelectedRows.Count < 0)
+            try
             {
-                return;
+                DataGridViewRow dr = dgv_Thuoc.SelectedRows[0];
+
+
+                txb_TenThuoc.Text = dr.Cells["TenThuoc1"].Value.ToString();
+
+                txb_Gia.Text = dr.Cells["Gia1"].Value.ToString();
+                cbb_DVT.Text = dr.Cells["DonViTinh1"].Value.ToString();
             }
-            DataGridViewRow dr = dgv_Thuoc.SelectedRows[0];
-
-            txb_MaThuoc.Text = dr.Cells["Mathuoc1"].Value.ToString();
-            txb_TenThuoc.Text = dr.Cells["TenThuoc1"].Value.ToString();
-
-            txb_Gia.Text = dr.Cells["Gia1"].Value.ToString();
-            cbb_DVT.Text = dr.Cells["DonViTinh1"].Value.ToString();
-           
+            catch
+            { return; }
+          
         }
         // sua thuoc
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txb_MaThuoc.Text == "" || (txb_MaThuoc.Text).Length > 5)
-            {
-                MessageBox.Show("CHON THUỐC CẦN SỬA!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
             
-
             // khoi tao doi tuong DTO
             THUOC bnDTO = new THUOC();
-            bnDTO.Mathuoc1 = int.Parse(txb_MaThuoc.Text);
+
+            if (txb_TenThuoc.Text == null || txb_TenThuoc.Text == "")
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (txb_Gia.Text == null || txb_Gia.Text == "")
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+           
 
             bnDTO.TenThuoc1 = txb_TenThuoc.Text;
 
@@ -112,17 +160,9 @@ namespace QuanLyPhongMachTu
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
-            if (txb_MaThuoc.Text == "")
-            {
-                MessageBox.Show("Hãy chọn THUỐC cần xóa!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
-                return;
-            }
+        {         
             THUOC bnDTO = new THUOC();
-
-            bnDTO.Mathuoc1 = int.Parse(txb_MaThuoc.Text);
-
+            bnDTO.TenThuoc1 = txb_TenThuoc.Text;
             if (THUOC_BUS.XoaTHUOC(bnDTO) == true)
             {
                 TaiDuLieuVaoDataGirdView();
@@ -131,7 +171,7 @@ namespace QuanLyPhongMachTu
 
                 return;
             }
-            MessageBox.Show(" Xóa không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(" Xóa không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void QuanLyThuoc_FormClosing(object sender, FormClosingEventArgs e)
@@ -149,6 +189,31 @@ namespace QuanLyPhongMachTu
                 this.Hide();
                 x.ShowDialog();
             }
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button_Thoat(object sender, EventArgs e)
+        {
+
+            DialogResult dlr = MessageBox.Show("Bạn có thực sự muốn thoát không?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (dlr == DialogResult.Yes)
+            {
+
+                Form_Chinh x = new Form_Chinh();
+                this.Hide();
+                x.ShowDialog();
+
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
         }
     }
 }

@@ -30,28 +30,26 @@
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dtp_NgaySinh = new System.Windows.Forms.DateTimePicker();
-            this.button1 = new System.Windows.Forms.Button();
+            this.button_Xoa = new System.Windows.Forms.Button();
             this.button_Them = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.txb_DienThoai = new System.Windows.Forms.TextBox();
             this.txb_DiaChi = new System.Windows.Forms.TextBox();
             this.txb_HoTen = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lb_DienThoai = new System.Windows.Forms.Label();
+            this.lb_DiaChi = new System.Windows.Forms.Label();
+            this.lb_NgaySinh = new System.Windows.Forms.Label();
+            this.lb_GioiTinh = new System.Windows.Forms.Label();
+            this.lb_HoTen = new System.Windows.Forms.Label();
+            this.lb_ThongTinBenhNhan = new System.Windows.Forms.Label();
             this.dgv_ThongTinBenhNhan = new System.Windows.Forms.DataGridView();
-            this.label7 = new System.Windows.Forms.Label();
+            this.lb_MaBenhNhan = new System.Windows.Forms.Label();
             this.txb_MaBN = new System.Windows.Forms.TextBox();
             this.button4 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.rdb_Nam = new System.Windows.Forms.RadioButton();
             this.rdb_Nu = new System.Windows.Forms.RadioButton();
-            this.dgv_Test = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_ThongTinBenhNhan)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgv_Test)).BeginInit();
             this.SuspendLayout();
             // 
             // dtp_NgaySinh
@@ -65,30 +63,30 @@
             this.dtp_NgaySinh.Size = new System.Drawing.Size(181, 22);
             this.dtp_NgaySinh.TabIndex = 6;
             // 
-            // button1
+            // button_Xoa
             // 
-            this.button1.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.button1.Cursor = System.Windows.Forms.Cursors.SizeNESW;
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Yellow;
-            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Yellow;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.Black;
-            this.button1.Location = new System.Drawing.Point(682, 230);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(106, 69);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Xóa";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button_Xoa.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.button_Xoa.Cursor = System.Windows.Forms.Cursors.SizeNESW;
+            this.button_Xoa.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.button_Xoa.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Yellow;
+            this.button_Xoa.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Yellow;
+            this.button_Xoa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Xoa.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_Xoa.ForeColor = System.Drawing.Color.Black;
+            this.button_Xoa.Location = new System.Drawing.Point(682, 230);
+            this.button_Xoa.Name = "button_Xoa";
+            this.button_Xoa.Size = new System.Drawing.Size(106, 69);
+            this.button_Xoa.TabIndex = 5;
+            this.button_Xoa.Text = "Xóa";
+            this.button_Xoa.UseVisualStyleBackColor = false;
+            this.button_Xoa.Click += new System.EventHandler(this.button1_Click);
             // 
             // button_Them
             // 
             this.button_Them.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.button_Them.Cursor = System.Windows.Forms.Cursors.SizeNESW;
             this.button_Them.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.button_Them.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Yellow;
+            this.button_Them.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.button_Them.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Yellow;
             this.button_Them.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Them.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -143,89 +141,89 @@
             this.txb_HoTen.Size = new System.Drawing.Size(181, 22);
             this.txb_HoTen.TabIndex = 1;
             // 
-            // label6
+            // lb_DienThoai
             // 
-            this.label6.AutoSize = true;
-            this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.Black;
-            this.label6.Location = new System.Drawing.Point(422, 110);
-            this.label6.Name = "label6";
-            this.label6.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label6.Size = new System.Drawing.Size(83, 16);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Điện Thoại";
+            this.lb_DienThoai.AutoSize = true;
+            this.lb_DienThoai.BackColor = System.Drawing.Color.Transparent;
+            this.lb_DienThoai.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_DienThoai.ForeColor = System.Drawing.Color.Black;
+            this.lb_DienThoai.Location = new System.Drawing.Point(422, 110);
+            this.lb_DienThoai.Name = "lb_DienThoai";
+            this.lb_DienThoai.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_DienThoai.Size = new System.Drawing.Size(83, 16);
+            this.lb_DienThoai.TabIndex = 0;
+            this.lb_DienThoai.Text = "Điện Thoại";
             // 
-            // label5
+            // lb_DiaChi
             // 
-            this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(422, 161);
-            this.label5.Name = "label5";
-            this.label5.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label5.Size = new System.Drawing.Size(58, 16);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "Địa Chỉ";
+            this.lb_DiaChi.AutoSize = true;
+            this.lb_DiaChi.BackColor = System.Drawing.Color.Transparent;
+            this.lb_DiaChi.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_DiaChi.ForeColor = System.Drawing.Color.Black;
+            this.lb_DiaChi.Location = new System.Drawing.Point(422, 161);
+            this.lb_DiaChi.Name = "lb_DiaChi";
+            this.lb_DiaChi.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_DiaChi.Size = new System.Drawing.Size(58, 16);
+            this.lb_DiaChi.TabIndex = 0;
+            this.lb_DiaChi.Text = "Địa Chỉ";
             // 
-            // label4
+            // lb_NgaySinh
             // 
-            this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.Color.Transparent;
-            this.label4.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(41, 161);
-            this.label4.Name = "label4";
-            this.label4.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label4.Size = new System.Drawing.Size(80, 16);
-            this.label4.TabIndex = 0;
-            this.label4.Text = "Ngày Sinh";
+            this.lb_NgaySinh.AutoSize = true;
+            this.lb_NgaySinh.BackColor = System.Drawing.Color.Transparent;
+            this.lb_NgaySinh.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_NgaySinh.ForeColor = System.Drawing.Color.Black;
+            this.lb_NgaySinh.Location = new System.Drawing.Point(41, 161);
+            this.lb_NgaySinh.Name = "lb_NgaySinh";
+            this.lb_NgaySinh.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_NgaySinh.Size = new System.Drawing.Size(80, 16);
+            this.lb_NgaySinh.TabIndex = 0;
+            this.lb_NgaySinh.Text = "Ngày Sinh";
             // 
-            // label3
+            // lb_GioiTinh
             // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(422, 60);
-            this.label3.Name = "label3";
-            this.label3.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label3.Size = new System.Drawing.Size(69, 16);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Giới Tính";
+            this.lb_GioiTinh.AutoSize = true;
+            this.lb_GioiTinh.BackColor = System.Drawing.Color.Transparent;
+            this.lb_GioiTinh.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_GioiTinh.ForeColor = System.Drawing.Color.Black;
+            this.lb_GioiTinh.Location = new System.Drawing.Point(422, 60);
+            this.lb_GioiTinh.Name = "lb_GioiTinh";
+            this.lb_GioiTinh.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_GioiTinh.Size = new System.Drawing.Size(69, 16);
+            this.lb_GioiTinh.TabIndex = 0;
+            this.lb_GioiTinh.Text = "Giới Tính";
             // 
-            // label2
+            // lb_HoTen
             // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(41, 110);
-            this.label2.Name = "label2";
-            this.label2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label2.Size = new System.Drawing.Size(81, 16);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Họ Và Tên";
+            this.lb_HoTen.AutoSize = true;
+            this.lb_HoTen.BackColor = System.Drawing.Color.Transparent;
+            this.lb_HoTen.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_HoTen.ForeColor = System.Drawing.Color.Black;
+            this.lb_HoTen.Location = new System.Drawing.Point(41, 110);
+            this.lb_HoTen.Name = "lb_HoTen";
+            this.lb_HoTen.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_HoTen.Size = new System.Drawing.Size(81, 16);
+            this.lb_HoTen.TabIndex = 0;
+            this.lb_HoTen.Text = "Họ Và Tên";
             // 
-            // label1
+            // lb_ThongTinBenhNhan
             // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(303, 9);
-            this.label1.Name = "label1";
-            this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(202, 18);
-            this.label1.TabIndex = 0;
-            this.label1.Text = " Thông Tin Bệnh Nhân";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lb_ThongTinBenhNhan.AutoSize = true;
+            this.lb_ThongTinBenhNhan.BackColor = System.Drawing.Color.Transparent;
+            this.lb_ThongTinBenhNhan.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_ThongTinBenhNhan.ForeColor = System.Drawing.Color.DarkRed;
+            this.lb_ThongTinBenhNhan.Location = new System.Drawing.Point(303, 9);
+            this.lb_ThongTinBenhNhan.Name = "lb_ThongTinBenhNhan";
+            this.lb_ThongTinBenhNhan.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_ThongTinBenhNhan.Size = new System.Drawing.Size(202, 18);
+            this.lb_ThongTinBenhNhan.TabIndex = 0;
+            this.lb_ThongTinBenhNhan.Text = " Thông Tin Bệnh Nhân";
+            this.lb_ThongTinBenhNhan.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // dgv_ThongTinBenhNhan
             // 
             this.dgv_ThongTinBenhNhan.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_ThongTinBenhNhan.Location = new System.Drawing.Point(12, 230);
+            this.dgv_ThongTinBenhNhan.Location = new System.Drawing.Point(3, 202);
             this.dgv_ThongTinBenhNhan.Name = "dgv_ThongTinBenhNhan";
             this.dgv_ThongTinBenhNhan.ReadOnly = true;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
@@ -236,26 +234,29 @@
             this.dgv_ThongTinBenhNhan.RowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgv_ThongTinBenhNhan.Size = new System.Drawing.Size(524, 293);
             this.dgv_ThongTinBenhNhan.TabIndex = 4;
+      //      this.dgv_ThongTinBenhNhan.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_ThongTinBenhNhan_CellDoubleClick);
             this.dgv_ThongTinBenhNhan.Click += new System.EventHandler(this.dgv_ThongTinBenhNhan_Click);
             // 
-            // label7
+            // lb_MaBenhNhan
             // 
-            this.label7.AutoSize = true;
-            this.label7.BackColor = System.Drawing.Color.Transparent;
-            this.label7.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(41, 58);
-            this.label7.Name = "label7";
-            this.label7.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label7.Size = new System.Drawing.Size(111, 16);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "Mã Bệnh Nhân";
+            this.lb_MaBenhNhan.AutoSize = true;
+            this.lb_MaBenhNhan.BackColor = System.Drawing.Color.Transparent;
+            this.lb_MaBenhNhan.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_MaBenhNhan.ForeColor = System.Drawing.Color.Black;
+            this.lb_MaBenhNhan.Location = new System.Drawing.Point(41, 58);
+            this.lb_MaBenhNhan.Name = "lb_MaBenhNhan";
+            this.lb_MaBenhNhan.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lb_MaBenhNhan.Size = new System.Drawing.Size(111, 16);
+            this.lb_MaBenhNhan.TabIndex = 0;
+            this.lb_MaBenhNhan.Text = "Mã Bệnh Nhân";
             // 
             // txb_MaBN
             // 
+            this.txb_MaBN.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.txb_MaBN.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txb_MaBN.Location = new System.Drawing.Point(210, 56);
             this.txb_MaBN.Name = "txb_MaBN";
+            this.txb_MaBN.ReadOnly = true;
             this.txb_MaBN.Size = new System.Drawing.Size(181, 22);
             this.txb_MaBN.TabIndex = 1;
             // 
@@ -319,49 +320,38 @@
             this.rdb_Nu.Text = "Nữ";
             this.rdb_Nu.UseVisualStyleBackColor = true;
             // 
-            // dgv_Test
-            // 
-            this.dgv_Test.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_Test.Location = new System.Drawing.Point(896, 104);
-            this.dgv_Test.Name = "dgv_Test";
-            this.dgv_Test.Size = new System.Drawing.Size(240, 290);
-            this.dgv_Test.TabIndex = 9;
-    
-            // 
             // ThemThongTinBenhNhan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1233, 533);
-            this.Controls.Add(this.dgv_Test);
+            this.ClientSize = new System.Drawing.Size(822, 533);
             this.Controls.Add(this.rdb_Nu);
             this.Controls.Add(this.rdb_Nam);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.button_Xoa);
             this.Controls.Add(this.dtp_NgaySinh);
             this.Controls.Add(this.button_Them);
             this.Controls.Add(this.dgv_ThongTinBenhNhan);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button5);
-            this.Controls.Add(this.label6);
+            this.Controls.Add(this.lb_DienThoai);
             this.Controls.Add(this.txb_DienThoai);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lb_ThongTinBenhNhan);
             this.Controls.Add(this.txb_DiaChi);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label7);
+            this.Controls.Add(this.lb_DiaChi);
+            this.Controls.Add(this.lb_MaBenhNhan);
             this.Controls.Add(this.txb_MaBN);
             this.Controls.Add(this.txb_HoTen);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lb_NgaySinh);
+            this.Controls.Add(this.lb_HoTen);
+            this.Controls.Add(this.lb_GioiTinh);
             this.Name = "ThemThongTinBenhNhan";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ThemThongTinBenhNhan";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ThemThongTinBenhNhan_FormClosing);
             this.Load += new System.EventHandler(this.ThemThongTinBenhNhan_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_ThongTinBenhNhan)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgv_Test)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -372,22 +362,21 @@
         private System.Windows.Forms.TextBox txb_DienThoai;
         private System.Windows.Forms.TextBox txb_DiaChi;
         private System.Windows.Forms.TextBox txb_HoTen;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label lb_DienThoai;
+        private System.Windows.Forms.Label lb_DiaChi;
+        private System.Windows.Forms.Label lb_NgaySinh;
+        private System.Windows.Forms.Label lb_GioiTinh;
+        private System.Windows.Forms.Label lb_HoTen;
+        private System.Windows.Forms.Label lb_ThongTinBenhNhan;
+        private System.Windows.Forms.Button button_Xoa;
         private System.Windows.Forms.Button button_Them;
         private System.Windows.Forms.DataGridView dgv_ThongTinBenhNhan;
         private System.Windows.Forms.DateTimePicker dtp_NgaySinh;
         private System.Windows.Forms.TextBox txb_MaBN;
-        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label lb_MaBenhNhan;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.RadioButton rdb_Nam;
         private System.Windows.Forms.RadioButton rdb_Nu;
-        private System.Windows.Forms.DataGridView dgv_Test;
     }
 }

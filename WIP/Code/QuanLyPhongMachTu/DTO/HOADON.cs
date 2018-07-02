@@ -8,13 +8,13 @@ namespace DTO
 {
     public class HOADON
     {
-        private string MaHD;
-        private string MaPK;
+        private int MaHD;
+        private int MaPK;
         private float TienKham;
         private float TienThuoc;
         private float TongTien;
       
-        public string MaHD1
+        public int MaHD1
         {
             get
             {
@@ -27,7 +27,7 @@ namespace DTO
             }
         }
 
-        public string MaPK1
+        public int MaPK1
         {
             get
             {

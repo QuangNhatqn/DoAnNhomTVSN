@@ -9,18 +9,18 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DTO;
 using BUS;
-using static QuanLyPhongMachTu.DOITHONGTIN;
+using static QuanLyPhongMachTu.ThayDoiThongTinCaNhan;
 
 namespace QuanLyPhongMachTu
 {
     public partial class Form_Chinh : Form
     {
 
-        private BACSI bs;
+        private NHANVIEN bs;
 
         private Form_Chinh chinh;
 
-        public BACSI Bs
+        public NHANVIEN Bs
         {
             get
             {
@@ -30,7 +30,7 @@ namespace QuanLyPhongMachTu
             set
             {
                 bs = value;
-                ChangeAccount();
+                //ChangeAccount(bs.Loai1);
             }
         }
 
@@ -47,22 +47,24 @@ namespace QuanLyPhongMachTu
             }
         }
 
-        public Form_Chinh(BACSI bs) : this()
+        public Form_Chinh(NHANVIEN bs) : this()
         {
             Bs = bs;
-            
-
+            ChangeAccount(Bs.LoaiNV1);
         }
         public Form_Chinh()
         {
             InitializeComponent();
             
         }
-        void ChangeAccount()
+        void ChangeAccount(int Loai)
         {
-           // adminToolStripMenuItem.Enabled = type == 1;
-            //thôngTinToolStripMenuItem.Text += " (" + Bs.TenDangNhap1 + ")";
             thToolStripMenuItem.Text += " (" + Bs.TenDangNhap1 + ")";
+            adminToolStripMenuItem.Enabled = Loai == 1;
+            button_Admin.Enabled = Loai == 1;
+            button_BaoCao.Enabled = Loai == 1;
+            qToolStripMenuItem.Enabled = Loai == 1;
+
         }
 
 
@@ -70,8 +72,6 @@ namespace QuanLyPhongMachTu
         {
 
         }
-
-
 
         private void thôngTinPhầnMềmVàHướngDẫnSửDụngToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -218,9 +218,12 @@ namespace QuanLyPhongMachTu
         private void button1_Click(object sender, EventArgs e)
         {
 
-            ThemThongTinBenhNhan f = new ThemThongTinBenhNhan();
+            //ThemThongTinBenhNhan f = new ThemThongTinBenhNhan();
+            //this.Hide();
+            //f.ShowDialog();
+            MenuQuanLyKhamBenh ql = new MenuQuanLyKhamBenh();
             this.Hide();
-            f.ShowDialog();
+            ql.ShowDialog();
         }
 
         private void panel14_Paint(object sender, PaintEventArgs e)
@@ -233,22 +236,26 @@ namespace QuanLyPhongMachTu
 
         }
 
-        //private void tìmKiếmLịchSửKhámBệnhToolStripMenuItem_Click(object sender, EventArgs e)
-        //{
-        //    fKiemTraHoSoBenhAn a = new fKiemTraHoSoBenhAn();
-        //    this.Hide();
-        //    a.ShowDialog();
-        //}
+       
 
         private void themTKToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            QuanLiThongTinNhanVien_GUI x = new QuanLiThongTinNhanVien_GUI();
+            this.Hide();
+            x.ShowDialog();
         }
 
-        private void Form_Chinh_FormClosing(object sender, FormClosingEventArgs e)
-        {
-           
-        }
+        //private void Form_Chinh_FormClosing(object sender, FormClosingEventArgs e)
+        //{
+        //    if (MessageBox.Show("Bạn có thực sự muốn thoát không?", "Thông Báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) != System.Windows.Forms.DialogResult.OK)
+        //    {
+
+        //        e.Cancel = true;
+        //        return;
+        //    }
+
+        //    Application.Exit();
+        //}
 
         private void đổiMậtKhẩuToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -257,7 +264,7 @@ namespace QuanLyPhongMachTu
 
         private void thôngTinToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            DOITHONGTIN x = new DOITHONGTIN(Bs);
+            ThayDoiThongTinCaNhan x = new ThayDoiThongTinCaNhan(Bs);
             x.CapNhat += x_CapNhat;
            // this.Hide();
             x.Show();
@@ -273,6 +280,101 @@ namespace QuanLyPhongMachTu
             this.Hide();
             thuoc.ShowDialog();
 
+        }
+
+        private void thêmThuốcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            QuanLyThuoc thuoc = new QuanLyThuoc();
+            thuoc.ShowDialog();
+            this.Hide();
+        }
+
+        private void đăngXuấtToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            DangNhap x = new DangNhap();
+            x.ShowDialog();
+            
+        }
+
+        private void chỉnhSửaThôngTinThuốcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            QuanLyThuoc thuoc = new QuanLyThuoc();
+            thuoc.ShowDialog();
+            this.Hide();
+        }
+
+        private void xóaThuốcKhỏiDanhMụcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            QuanLyThuoc thuoc = new QuanLyThuoc();
+            thuoc.ShowDialog();
+            this.Hide();
+        }
+
+        private void chỉnhSửaThôngTinTàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ThayDoiThongTinCaNhan x = new ThayDoiThongTinCaNhan();
+            this.Hide();
+            x.ShowDialog();
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            QuanLiThongTinNhanVien_GUI x = new QuanLiThongTinNhanVien_GUI();
+            this.Hide();
+            x.ShowDialog();
+        }
+
+        private void tìmKiếmLịchSửKhámBệnhToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmKiemTraHoSoBenhAn x = new frmKiemTraHoSoBenhAn();
+            this.Hide();
+            x.ShowDialog();
+        }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           Application.Exit();
+        }
+
+        private void quảnLýThuốcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            QuanLyThuoc Thuoc = new QuanLyThuoc();
+            this.Hide();
+            Thuoc.ShowDialog();
+        }
+
+        private void Form_Chinh_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            //if (MessageBox.Show("Bạn muốn đăng xuất?", "Thông Báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) != System.Windows.Forms.DialogResult.OK)
+            //{
+
+            //    e.Cancel = true;
+            //    return;
+            //}
+            //DangNhap a = new DangNhap();
+            //this.Hide();
+            //a.ShowDialog();
+            //Application.Exit();
+        }
+
+        private void thayĐổiTiềnKhámBệnhToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            QuyDinhTienKhamGUI f = new QuyDinhTienKhamGUI();
+            this.Hide();
+            f.ShowDialog();
+        }
+
+        private void button_BaoCao_Click(object sender, EventArgs e)
+        {
+            LapBaoCao f = new LapBaoCao();
+            this.Hide();
+            f.ShowDialog();
         }
     }
 }

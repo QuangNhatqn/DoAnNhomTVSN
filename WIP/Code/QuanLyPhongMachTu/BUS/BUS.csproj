@@ -54,12 +54,17 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GhiKQVaoPKBUS.cs" />
     <Compile Include="HoaDon_BUS.cs" />
+    <Compile Include="KeToaThuoc_BUS.cs" />
+    <Compile Include="KiemTraHoSoBenhAnBUS.cs" />
+    <Compile Include="LapHoaDonBUS.cs" />
     <Compile Include="LapPhieuKB_BUS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="BACSI_BUS.cs" />
-    <Compile Include="Them_Sua_Xoa_ThongTinBenhNhanBUS.cs" />
+    <Compile Include="NHANVIEN_BUS.cs" />
+    <Compile Include="QuanLyThongTinNhanVien_BUS.cs" />
+    <Compile Include="QuyDinhTienKhamBUS.cs" />
     <Compile Include="THUOC_BUS.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

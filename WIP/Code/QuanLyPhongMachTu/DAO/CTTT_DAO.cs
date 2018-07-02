@@ -31,7 +31,7 @@ namespace DAO
             {
 
                 CTTT b = new CTTT();
-                b.MaPK1 = dt.Rows[i]["MaPK"].ToString();
+                b.MaPK1 = int.Parse(dt.Rows[i]["MaPK"].ToString());
                 b.MaThuoc1 = int.Parse(dt.Rows[i]["MaThuoc"].ToString());
                 b.SoLuong1 = int.Parse(dt.Rows[i]["SoLuong"].ToString());
                 b.DonGia1 = float.Parse(dt.Rows[i]["DonGia"].ToString());
@@ -60,6 +60,7 @@ namespace DAO
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.StackTrace);
                 DataProvider_1.DongKetNoi(Con);
                 return false;
             }

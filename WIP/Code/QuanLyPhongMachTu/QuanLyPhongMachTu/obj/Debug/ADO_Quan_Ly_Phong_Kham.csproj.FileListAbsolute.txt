@@ -34,7 +34,209 @@ E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần m�
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.pdb
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.pdb
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.pdb
-E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.CTTT_GUI.resources
-E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DOITHONGTIN.resources
-E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ViDu.resources
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThuoc.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.MenuQuanLyKhamBenh.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe.config
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csprojResolveAssemblyReference.cache
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.CTTT_GUI.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DangNhap.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DOITHONGTIN.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Form_Chinh.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.KeToaThuoc.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.LapPhieuKhamBenh_GUI.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.MenuQuanLyKhamBenh.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Properties.Resources.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThongTinBenhNhan.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThuoc.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLiThongTinBacSi_GUI.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThemThongTinBenhNhan.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ViDu.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.GenerateResource.Cache
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe.config
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csprojResolveAssemblyReference.cache
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.CTTT_GUI.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DangNhap.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DOITHONGTIN.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Form_Chinh.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.KeToaThuoc.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.LapPhieuKhamBenh_GUI.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.MenuQuanLyKhamBenh.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Properties.Resources.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThongTinBenhNhan.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThuoc.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLiThongTinBacSi_GUI.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThemThongTinBenhNhan.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ViDu.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.GenerateResource.Cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThayDoiThongTinCaNhan.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.dll
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.xml
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLiThongTinNhanVien_GUI.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.frmGhiKetQuaVaoPK.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe.config
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.dll
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.xml
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csprojResolveAssemblyReference.cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DangNhap.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.frmGhiKetQuaVaoPK.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThayDoiThongTinCaNhan.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Form_Chinh.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.LapPhieuKhamBenh_GUI.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.MenuQuanLyKhamBenh.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Properties.Resources.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThuoc.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLiThongTinNhanVien_GUI.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThemThongTinBenhNhan.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\BUS.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\bin\Debug\DAO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DangNhap.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.frmGhiKetQuaVaoPK.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThayDoiThongTinCaNhan.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Form_Chinh.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.LapPhieuKhamBenh_GUI.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.MenuQuanLyKhamBenh.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Properties.Resources.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThuoc.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLiThongTinNhanVien_GUI.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThemThongTinBenhNhan.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.CopyComplete
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.frmKiemTraHoSoBenhAn.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\QuanLyPhongMachTu.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\BUS.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\BUS.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\DAO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.DangNhap.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.frmGhiKetQuaVaoPK.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.frmKiemTraHoSoBenhAn.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThayDoiThongTinCaNhan.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Form_Chinh.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.LapPhieuKhamBenh_GUI.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.MenuQuanLyKhamBenh.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.Properties.Resources.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLyThuoc.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuanLiThongTinNhanVien_GUI.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.ThemThongTinBenhNhan.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\ADO_Quan_Ly_Phong_Kham.csproj.CopyComplete
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.QuyDinhTienKhamGUI.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\EnvDTE.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\QuanLyPhongMachTu\obj\Debug\QuanLyPhongMachTu.LapBaoCao.resources

@@ -8,12 +8,12 @@ namespace DTO
 {
     public class CTTT
     {
-        private string MaPK;
+        private int MaPK;
         private int MaThuoc;
         private int SoLuong;
         private float DonGia;
         private string CachDung;
-        public string MaPK1
+        public int MaPK1
         {
             get
             {

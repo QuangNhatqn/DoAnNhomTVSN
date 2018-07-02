@@ -22,3 +22,71 @@ E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần m�
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\BUS\bin\Debug\DTO.exe
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\obj\Debug\BUS.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe.config
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\DAO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\DTO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe.config
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\DAO.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\DTO.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\obj\Debug\BUS.exe
+C:\Users\TRAN THI SOAN\Desktop\Quản Lý dự án CNTT\up5\QuanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe.config
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\DAO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\BUS.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\DAO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\BUS.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\BUS.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\DAO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\BUS\obj\Debug\BUS.pdb

@@ -8,14 +8,14 @@ namespace DTO
 {
     public class PHIEUKHAM
     {
-        private string MaPK;
-        private string MaBS;
-        private string MaBN;
-         private DateTime NgayKham;
+        private int MaPK;
+        private int MaNV;
+        private int MaBN;
+        private DateTime NgayKham;
         private string TrieuChung;
         private string KetQua;
-       
-        public string MaPK1
+        
+        public int MaPK1
         {
             get
             {
@@ -27,21 +27,20 @@ namespace DTO
                 MaPK = value;
             }
         }
-
-        public string MaBS1
+        public int MaNV1
         {
             get
             {
-                return MaBS;
+                return MaNV;
             }
 
             set
             {
-                MaBS = value;
+                MaNV = value;
             }
         }
 
-        public string MaBN1
+        public int MaBN1
         {
             get
             {
@@ -91,6 +90,6 @@ namespace DTO
             }
         }
 
-      
+        
     }
 }

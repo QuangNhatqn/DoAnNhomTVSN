@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
+using System.Configuration;
 
 namespace DAO
 {
@@ -13,7 +14,7 @@ namespace DAO
         //ket noi
         public static SqlConnection KetNoi()
         {
-            string sChuoiKetNoi = @"Data Source=DESKTOP-R6C5BS9;Initial Catalog=Quanlikhambenh;Integrated Security=True";
+            string sChuoiKetNoi = ConfigurationManager.AppSettings["ConnectionString"]; ;
             SqlConnection Con = new SqlConnection(sChuoiKetNoi);
             Con.Open();
             return Con;
@@ -46,6 +47,7 @@ namespace DAO
             }
             catch(Exception ex)
             {
+                Console.WriteLine(ex.StackTrace);
                 //Console.WriteLine(ex);
                 return false;
             }

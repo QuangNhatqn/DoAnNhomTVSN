@@ -8,9 +8,20 @@ namespace DTO
 {
     public class BENHNHAN
     {
-       // private string MaBN;
+        // private string MaBN;
+        private int MaBN;
 
-        public string MaBN1
+        private string TenBN;
+
+        private DateTime NgaySinh;
+
+        private string DiaChi;
+
+        private string DienThoai;
+
+        private string GioiTinh;
+        private int TrangThai;
+        public int MaBN1
         {
             get
             {
@@ -88,21 +99,21 @@ namespace DTO
             }
         }
 
-        
+       
+        public int TrangThai1
+        {
+            get
+            {
+                return TrangThai;
+            }
 
-        private string MaBN;
+            set
+            {
+                TrangThai = value;
+            }
+        }
 
-        private string TenBN;
-
-        private DateTime NgaySinh;
-
-        private string DiaChi;
-
-        private string DienThoai;
-
-        private string GioiTinh;
-
-        public BENHNHAN(string mabn,string tenbn, DateTime ngaysinh,string diachi,string dienthoai,string gioitinh)
+        public BENHNHAN(int mabn,string tenbn, DateTime ngaysinh,string diachi,string dienthoai,string gioitinh, int TrangThai)
         {
             this.MaBN = mabn;
             this.TenBN = tenbn;
@@ -110,7 +121,7 @@ namespace DTO
             this.DiaChi = diachi;
             this.DienThoai = dienthoai;
             this.GioiTinh = gioitinh;
-          
+            this.TrangThai = TrangThai;
 
         }
 
@@ -120,10 +131,20 @@ namespace DTO
 
         }
 
-        public BENHNHAN(string mabn)
+        public BENHNHAN(int mabn)
         {
 
             this.MaBN = mabn;
+        }
+
+        public BENHNHAN(string tenbn, DateTime ngaysinh, string diachi, string dienthoai, string gioitinh)
+        {
+
+            this.TenBN = tenbn;
+            this.NgaySinh = ngaysinh;
+            this.DiaChi = diachi;
+            this.DienThoai = dienthoai;
+            this.GioiTinh = gioitinh;
         }
 
 

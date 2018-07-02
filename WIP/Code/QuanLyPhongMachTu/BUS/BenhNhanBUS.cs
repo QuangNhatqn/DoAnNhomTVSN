@@ -32,10 +32,25 @@ namespace BUS
             //return XoaBenhNhan(bnDTO);
             return BenhNhanDAO.XoaBenhNhan(bnDTO);
         }
+        public static bool XoaBenhNhanCu(BENHNHAN bnDTO)
+        {
+            //return XoaBenhNhan(bnDTO);
+            return BenhNhanDAO.XoaBenhNhanCu(bnDTO);
+        }
 
         public static DataTable TaoBang(BENHNHAN bnDTO)
         {
             return BenhNhanDAO.TaoBang(bnDTO);
+        }
+
+        public static bool KiemTraTonTai(BENHNHAN bnDTO)
+        {
+            return BenhNhanDAO.KiemTraTonTai(bnDTO);
+        }
+
+        public static DataTable BangKiemTraTonTai(BENHNHAN bnDTO)
+        {
+            return BenhNhanDAO.BangKiemTraTonTai(bnDTO);
         }
     }
 }

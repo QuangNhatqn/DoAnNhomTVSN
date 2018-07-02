@@ -18,3 +18,49 @@ E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần m�
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DAO\obj\Debug\DAO.exe
 E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\Code\BanGoc\code\QuanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\bin\Debug\DAO.exe.config
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\bin\Debug\DAO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\bin\Debug\DTO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\obj\Debug\DAO.exe
+C:\Users\TRAN THI SOAN\Desktop\Code\up 4\QuanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\bin\Debug\DAO.exe.config
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\bin\Debug\DAO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\bin\Debug\DTO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.exe
+E:\HOC-TAP\UIT\MON-HOC\HỌC KỲ 4-SV NĂM 2\Nhập môn công nghệ phần mềm\code\GOM CODE\SOAN\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\bin\Debug\DAO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\bin\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\bin\Debug\DAO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\bin\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.exe
+C:\Users\admin\Downloads\up10\QuanLyPhongMachTu - Copy\DAO\obj\Debug\DAO.pdb

@@ -1,144 +1,57 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DTO;
+
 namespace DAO
 {
-    public class DataProvider
+    class DataProvider
     {
-
-
-        private static DataProvider instance;
-
-        private string connectionSTR = @"Data Source=DESKTOP-R6C5BS9;Initial Catalog=Quanlikhambenh;Integrated Security=True";
-
-        public static DataProvider Instance
+        
+        //ket noi
+        public static SqlConnection KetNoi()
         {
-            get
-            {
+            //string sChuoiKetNoi = @"Data Source=DESKTOP-HLJNT2J\SQLEXPRESS;Initial Catalog=QLKB;Integrated Security=True";
+            string sChuoiKetNoi = ConfigurationManager.AppSettings["ConnectionString"];
+            SqlConnection Con = new SqlConnection(sChuoiKetNoi);
+            Con.Open();
+            return Con;
 
-                if (instance == null) instance = new DataProvider();
-                return instance;
-            }
+        }
+        //dong ket noi
+        public static void DongKetNoi(SqlConnection Con)
+        {
 
-            private set
-            {
-                instance = value;
-            }
+            Con.Close();
+
         }
 
-
-        private DataProvider() { }
-        public DataTable ExecuteQuery(string query, object[] parameter = null)
+        //lấy table
+        public static DataTable LoadTable(string query, SqlConnection connectionString)
         {
-
-            DataTable data = new DataTable();
-            using (SqlConnection connection = new SqlConnection(connectionSTR))
-            {
-
-                connection.Open();
-
-
-                SqlCommand command = new SqlCommand(query, connection);
-
-                if (parameter != null)
-                {
-                    string[] listPara = query.Split(' ');
-                    int i = 0;
-                    foreach (string item in listPara)
-                    {
-                        if (item.Contains('@'))
-                        {
-                            command.Parameters.AddWithValue(item, parameter[i]);
-                            i++;
-                        }
-                    }
-                }
-
-
-                SqlDataAdapter adapter = new SqlDataAdapter(command);
-
-                adapter.Fill(data);
-
-                connection.Close();
-            }
-            return data;
+            SqlDataAdapter da = new SqlDataAdapter(query, connectionString);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
         }
 
-
-        //////////////////////
-
-        public int ExecuteNonQuery(string query, object[] parameter = null)
+        //nonquery
+        public static bool ThucThiNonQuery(string query, SqlConnection connectionString)
         {
-
-            int data = 0;
-            using (SqlConnection connection = new SqlConnection(connectionSTR))
+            try
             {
-
-                connection.Open();
-
-
-                SqlCommand command = new SqlCommand(query, connection);
-
-                if (parameter != null)
-                {
-                    string[] listPara = query.Split(' ');
-                    int i = 0;
-                    foreach (string item in listPara)
-                    {
-                        if (item.Contains('@'))
-                        {
-                            command.Parameters.AddWithValue(item, parameter[i]);
-                            i++;
-                        }
-                    }
-                }
-
-
-                data = command.ExecuteNonQuery();
-                connection.Close();
+                SqlCommand com = new SqlCommand(query, connectionString);
+                com.ExecuteNonQuery();
+                return true;
             }
-            return data;
-        }
-
-        /////////////////////
-
-        public object ExecuteScalar(string query, object[] parameter = null)
-        {
-
-            object data = 0;
-            using (SqlConnection connection = new SqlConnection(connectionSTR))
+            catch (Exception ex)
             {
-
-                connection.Open();
-
-
-                SqlCommand command = new SqlCommand(query, connection);
-
-                if (parameter != null)
-                {
-                    string[] listPara = query.Split(' ');
-                    int i = 0;
-                    foreach (string item in listPara)
-                    {
-                        if (item.Contains('@'))
-                        {
-                            command.Parameters.AddWithValue(item, parameter[i]);
-                            i++;
-                        }
-                    }
-                }
-
-
-                data = command.ExecuteScalar();
-                connection.Close();
+                return false;
             }
-            return data;
         }
     }
-
 }

@@ -29,5 +29,10 @@ namespace BUS
         {
             return THUOC_DAO.XoaTHUOC(bnDTO);
         }
+
+        public static bool KiemTraTonTai(THUOC Thuoc)
+        {
+            return THUOC_DAO.KiemTraTonTai(Thuoc);
+        }
     }
 }

@@ -5,12 +5,29 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using System.Configuration;
 
 namespace DAO
 {
     class DataPro
     {
-        private string connectionSTR = @"Data Source=DESKTOP-R6C5BS9;Initial Catalog=QLKB;Integrated Security=True";//gan chuoi ket noi vo connectionSTR
+        private string connectionSTR;// = @"Data Source=DESKTOP-HLJNT2J\SQLEXPRESS;Initial Catalog=QLKB;Integrated Security=True";//gan chuoi ket noi vo connectionSTR
+        public DataPro()
+        {
+            connectionSTR = ConfigurationManager.AppSettings["ConnectionString"];
+        }
+        public string ConnectionSTR
+        {
+            get
+            {
+                return connectionSTR;
+            }
+
+            set
+            {
+                connectionSTR = value;
+            }
+        }
 
         public DataSet ExecuteQuery(string query)
         {

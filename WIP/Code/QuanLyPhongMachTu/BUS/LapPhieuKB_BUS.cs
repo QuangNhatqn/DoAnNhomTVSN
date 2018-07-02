@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DAO;
 using DTO;
+using System.Data;
 
 namespace BUS
 {
@@ -27,7 +28,10 @@ namespace BUS
 
         public static bool XoaPhieuKham(PHIEUKHAM bnDTO)
         {
-            return LapPhieuKhamBenh_DAO.XoaPHIEUKHAM(bnDTO);
+            return LapPhieuKhamBenh_DAO.XOAPHIEUKHAM(bnDTO);
         }
+
+     
+
     }
 }

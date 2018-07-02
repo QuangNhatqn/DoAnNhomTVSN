@@ -8,23 +8,12 @@ namespace DTO
 {
     public class THUOC
     {
-        private int Mathuoc;
+       
         private string TenThuoc;
         private string DonViTinh;
         private float Gia;
-        public int Mathuoc1
-        {
-            get
-            {
-                return Mathuoc;
-            }
-
-            set
-            {
-                Mathuoc = value;
-            }
-        }
-
+        private int TrangThai;
+        
         public string TenThuoc1
         {
             get
@@ -64,9 +53,29 @@ namespace DTO
             }
         }
 
+        public int TrangThai1
+        {
+            get
+            {
+                return TrangThai;
+            }
+
+            set
+            {
+                TrangThai = value;
+            }
+        }
+
         public THUOC()
         {
 
+        }
+        public THUOC(string Ten, string DVT, int Gia, int TrangThai)
+        {
+            this.TenThuoc1 = Ten;
+            this.DonViTinh1 = DVT;
+            this.Gia1 = Gia;
+            this.TrangThai1 = TrangThai;
         }
     }
 }
