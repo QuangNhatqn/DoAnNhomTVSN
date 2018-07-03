@@ -1,4 +1,5 @@
-﻿CREATE DATABASE QLKB
+﻿
+CREATE DATABASE QLKB
 use QLKB
 
 CREATE TABLE BENHNHAN
@@ -40,8 +41,6 @@ ALTER TABLE PHIEUKHAM ADD
 CONSTRAINT PK_MaPK_PK PRIMARY KEY (MaPK),
 CONSTRAINT PK_MaNV_FK FOREIGN KEY (MaNV) REFERENCES NHANVIEN(MaNV),
 CONSTRAINT PK_MaBN_FK FOREIGN KEY (MaBN) REFERENCES BENHNHAN(MaBN)
-
-
 
 CREATE TABLE HOADON
 (
@@ -116,7 +115,7 @@ INSERT INTO BENHNHAN (TenBN, NgaySinh, DiaChi, DienThoai, GioiTinh, TrangThai)
 VALUES(N'Nguyễn Song Nguyên',	'03/08/1992',	N'121 Nguyễn Xí, phường 26, Bình Thạnh, Hồ Chí Minh',	'1256172123',	N'Nam', '1')
 
 INSERT INTO NHANVIEN (TenNV, TenDangNhap, MatKhau, LoaiNV, TrangThai)
-VALUES(N'Nguyễn Thi',	'nguyenthi',	'123', '1', '1')
+VALUES(N'Nguyễn Thi',	'admin',	'123', '1', '1')
 INSERT INTO NHANVIEN (TenNV, TenDangNhap, MatKhau, LoaiNV, TrangThai)
 VALUES(N'Trần Văn Kim',	'tranvankim',	'212', '2', '1')	
 INSERT INTO NHANVIEN (TenNV, TenDangNhap, MatKhau, LoaiNV, TrangThai)
@@ -195,7 +194,6 @@ INSERT INTO HOADON (MaPK, TienKham, TienThuoc, TongTien, TrangThai)
 VALUES('16',	100000,	500000,	600000, '1')
 
 
-
 INSERT INTO THUOC (TenThuoc, DonViTinh, Gia, TrangThai)
 VALUES('Telfast',	N'Hộp',	200000, '1')
 INSERT INTO THUOC (TenThuoc, DonViTinh, Gia, TrangThai)
@@ -266,28 +264,16 @@ INSERT INTO CTTT (MaPK, TenThuoc, SoLuong, DonGia, CachDung, TrangThai)
 VALUES('15',	'Kaleorid',	'1',	500000,	N'Uống cả viên thuốc với 1 ly nước đầy.', '1')
 INSERT INTO CTTT (MaPK, TenThuoc, SoLuong, DonGia, CachDung, TrangThai)	
 VALUES('16',	'Panadol',	'1',	500000,	N'Uống ba bữa trong ngày và sau khi ăn.', '1')
-INSERT INTO CTTT (MaPK, TenThuoc, SoLuong, DonGia, CachDung, TrangThai)	
-VALUES('16',	'Telfast',	'1',	500000,	N'Uống ba bữa trong ngày và sau khi ăn.', '1')
-INSERT INTO CTTT (MaPK, TenThuoc, SoLuong, DonGia, CachDung, TrangThai)	
-VALUES('16',	'Kaleorid',	'1',	500000,	N'Uống ba bữa trong ngày và sau khi ăn.', '0')
-
-
-
 
 INSERT INTO QUIDINH (TienKham)
 VALUES (100000)
 
-
-
- 
-
-select * from NHANVIEN
-select * from BENHNHAN
-select * from CTTT
-select * from HOADON
-select * from PHIEUKHAM
-select * from THUOC
-select * from QUIDINH
+--select * from NHANVIEN
+--select * from BENHNHAN
+--select * from CTTT
+--select * from HOADON
+--select * from PHIEUKHAM
+--select * from THUOC
 
 --delete NHANVIEN
 --delete BENHNHAN 
@@ -304,10 +290,10 @@ select * from QUIDINH
 --drop table PHIEUKHAM
 --drop table THUOC
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 
---drop database QLKB
------------------------------------------
+
 CREATE PROC USP_DieuKienDangNhap
 @TenDangNhap nvarchar(100), @MatKhau nvarchar(100)
 As
@@ -316,7 +302,8 @@ BEGIN
 	SELECT * FROM NHANVIEN WHERE (TenDangNhap = @TenDangNhap and MatKhau = @MatKhau) and (TrangThai = '1' and LoaiNV != 4)
 	
 END
------------------
+--------------------------------------------------------------------------------------------------------------------------
+
 CREATE PROC USP_CapNhatThongTinNhanVien
 @MaNV int, @HoTen nvarchar(255), @TenDangNhap nvarchar(255) , @MatKhau nvarchar(255), @MKMoi nvarchar(255)
 as
@@ -333,6 +320,4 @@ BEGIN
 			UPDATE NHANVIEN SET TenNV = @HoTen, TenDangNhap = @TenDangNhap, MatKhau = @MKMoi WHERE MaNV = @MaNV
 	END
 END
-
-
 
